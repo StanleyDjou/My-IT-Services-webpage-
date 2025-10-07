@@ -1,0 +1,143 @@
+ .myrows {
+    border: 3px solid green;
+}
+.mycols {
+    border: 3px solid red;
+}
+.mytext-container {
+    background: aqua; padding: auto;
+}
+
+#topHeader {
+    
+   border-bottom: 1px solid #ebebeb;
+ 
+}
+
+#topHeader a{
+    color:#2c3e50 ;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+.container-fluid{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+nav ul li a {
+   font-size: 1.1em;
+   font-weight: 600;
+}
+
+/* START FOOTER */
+.full-footer{
+    background-color: #34495e;
+   
+    
+   
+}
+.top-footer p{
+     color: white;
+}
+.top-footer a{
+    color: white;
+    font-weight: 600;
+}
+.top-footer h3{
+    color: white;
+   
+}
+.bottom-footer{
+    background-color: #19232e;
+    color: white;
+    padding: 10px 0px 10px 0px;
+}
+
+/* END FOOTER */
+
+/* START Home PAGE */
+.top-hero-section{
+    background-color: #3498db;
+    color: white;
+   
+    
+    text-align: center;
+    
+}
+.Bild{
+   width: 350px;
+   height: 200px;
+    
+}
+.top-hero-section a{
+    
+    color: white;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+/* END Home PAGE */
+
+.Quality-img{
+    width: 70px;
+   
+    
+}
+
+/* START : requirements-section */
+.requirements-section{
+   background-color: #3498db;
+    color: white;
+    
+     text-align: center;
+  
+}
+.Get-Started{
+    background-color:#004d80 ;
+    text-align: center;
+}
+.Read-More{background-color: #004d80;}
+/* END : requirements-section */
+
+/*-- START : Homepage fifth section - Newsletter section--*/
+.home-newsletter{
+    background-color: #3498db;
+     color: white;
+     
+      text-align: center;
+   
+ }
+ .home-newsletter .form-control{
+  
+    height: 50px;
+   border-color: transparent ;
+    border-radius: 20px 0 0 20px;
+ }
+ .home-newsletter .btn{
+    min-height: 50px;
+    border-radius: 0 20px 20px 0;
+    background-color: #941f38;
+    color: white;
+ }
+ .clients-section{
+    background-color: #f0f0f0;
+    
+    text-align: center;
+ }
+
+ /* Start: About US PAGE */
+.breadcrumbs-section{
+    background-color: #e9ecef;
+    padding: 10px 0px 10px 0px;
+        
+}
+ 
+/* START: Kontakt US */
+.Adress p{
+   
+    font-weight: 600;
+    font-size: 1.2rem;
+
+}
+/* END: kontakt US */
